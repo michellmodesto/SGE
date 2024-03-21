@@ -1,0 +1,28 @@
+BACKEND
+Entrar na pasta da aplicação do projeto
+cd. BACKEND
+
+
+Instalar a venv
+py -m venv venv
+
+
+
+pip install django djangorestframework djoser django-cors-headers
+
+Ativar
+
+
+Historico de bibliotecas
+pip freeze > requirements.txt
+
+FRONTEND
+Entrar na pasta da aplicação do projeto
+cd. FRONTEND
+cd .\sge-front\
+nvm --version
+nvm install 20.10
+nvm use 20.10
+npm install
+
+
